@@ -1,0 +1,72 @@
+[33mcommit 5fad39942c1a6778100c90c2565834c85d561ecd[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mdev-Mohammed[m[33m)[m
+Author: Mekhlafi <mohammed.r.almekhafi@gmail.com>
+Date:   Sat Aug 16 08:40:18 2025 +0300
+
+    add another console.log
+
+[33mcommit 5e4e871ca1ab7385165ba13993d784b9a35c0152[m
+Author: Mekhlafi <mohammed.r.almekhafi@gmail.com>
+Date:   Sat Aug 16 08:38:50 2025 +0300
+
+    Add hello console.log to hello.js
+
+[33mcommit 471ef3a4fc1db8f4c96a5a1471bdab3ff0360e58[m
+Author: Mekhlafi <mohammed.r.almekhafi@gmail.com>
+Date:   Sat Aug 16 08:37:05 2025 +0300
+
+    add github console.log to hello.js
+
+[33mcommit fa5cd092accda4ba5ea0dae9838aa49b63aabd41[m[33m ([m[1;31morigin/dev-Mohammed[m[33m)[m
+Merge: 3e71714 0d2fa3e
+Author: Mekhlafi <mohammed.r.almekhafi@gmail.com>
+Date:   Sat Aug 16 08:28:59 2025 +0300
+
+    resolve merge conflicts
+
+[33mcommit 0d2fa3e86edd77b963c26e08b86c8a720c6114dc[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Merge: d82bcdd ba228d1
+Author: mohammedralmekhafi-netizen <mohammed.r.almekhafi@gmail.com>
+Date:   Sat Aug 16 08:09:19 2025 +0300
+
+    Merge pull request #3 from mohammedralmekhafi-netizen/dev-jsm
+    
+    today i woke up and drank coffe then i sat at the table and added a f…
+
+[33mcommit ba228d1ed068044d2ff4bcb53812a72e19fad4eb[m[33m ([m[1;31morigin/dev-jsm[m[33m, [m[1;32mdev-jsm[m[33m)[m
+Author: Mekhlafi <mohammed.r.almekhafi@gmail.com>
+Date:   Sat Aug 16 08:06:28 2025 +0300
+
+    today i woke up and drank coffe then i sat at the table and added a few lines of code
+
+[33mcommit 3e7171433349406b7d842625957c6ac91bd8a642[m
+Author: Mekhlafi <mohammed.r.almekhafi@gmail.com>
+Date:   Sat Aug 16 07:57:20 2025 +0300
+
+    Modify readme by changing the heading and adding a new line
+
+[33mcommit d82bcddc5c87dac31743a2c000ac6616ddc93b70[m
+Merge: d2e8922 a28ed1a
+Author: mohammedralmekhafi-netizen <mohammed.r.almekhafi@gmail.com>
+Date:   Sat Aug 16 00:53:17 2025 +0300
+
+    Merge pull request #1 from mohammedralmekhafi-netizen/big-fix
+    
+    A note of how commit work
+
+[33mcommit a28ed1a61672892b1275ff493a1bc0fa42ea7905[m[33m ([m[1;31morigin/big-fix[m[33m, [m[1;32mbig-fix[m[33m)[m
+Author: Mekhlafi <mohammed.r.almekhafi@gmail.com>
+Date:   Sat Aug 16 00:35:24 2025 +0300
+
+    A note of how commit work
+
+[33mcommit d2e89223467e3174765e018093c91e3368e1fa35[m[33m ([m[1;32mfeature[m[33m)[m
+Author: Mekhlafi <mohammed.r.almekhafi@gmail.com>
+Date:   Fri Aug 15 23:40:36 2025 +0300
+
+    Add hello and Test files
+
+[33mcommit 880d689613b704ac9357f108fd4c868b313e46eb[m
+Author: Mekhlafi <mohammed.r.almekhafi@gmail.com>
+Date:   Fri Aug 15 23:38:33 2025 +0300
+
+    Add readme.md file
